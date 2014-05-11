@@ -12,7 +12,7 @@ public class Game
 	public static void main(String[] args)
 	{
 		//TODO - GAME RUNS HERE
-		System.out.println("Testing using eclipse!");
+		System.out.println("Testing using eclipse on my laptop!");
 		System.out.println("GAME WILL RUN HERE!");
 		System.out.println("Sorry, this functionality has not yet been implemented!");
 		System.out.println("Good bye!");
